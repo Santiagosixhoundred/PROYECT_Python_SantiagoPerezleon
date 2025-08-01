@@ -1,10 +1,4 @@
-"pongo la extructura basica del programa
-extructuras de carpteas
-tecnologias utilazas python bibiotecas
-funcionalidades y lo que hacen
-0 requerimientos
-como se ejecuta 
-luego describo que se ejecuta en main"
+
 # Extructura del programa
 # --> carpeta managers
 # --> carpeta models
